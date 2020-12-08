@@ -17,7 +17,10 @@
 `sudo add-apt-repository ppa:ernstp/mesarc`  
 `sudo apt-get update`  
 `sudo apt-get install corectrl`
-
+### install Gnome shell system monitor extension
+https://extensions.gnome.org/extension/120/system-monitor/  
+  
+  
 ## Android links
 Google Android  
 https://source.android.com/
