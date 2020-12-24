@@ -21,9 +21,9 @@
 https://extensions.gnome.org/extension/120/system-monitor/  
 
 ### PulseAudio Sample rate 
-'pulseaudio -k' kill pulseaudio  
-'/etc/pulse/daemon.conf'  
-'pulseaudio --restart'  
+`pulseaudio -k` kill pulseaudio  
+`/etc/pulse/daemon.conf`  
+`pulseaudio --restart`  
   
   
 ## Android links
