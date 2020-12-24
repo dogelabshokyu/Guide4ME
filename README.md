@@ -25,6 +25,8 @@ https://extensions.gnome.org/extension/120/system-monitor/
 `/etc/pulse/daemon.conf`  
 `pulseaudio --restart`  
   
+### Git Editor Change
+`git config --global core.editor "vim"`  
   
 ## Android links
 Google Android  
