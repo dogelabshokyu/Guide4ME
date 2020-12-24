@@ -19,6 +19,11 @@
 `sudo apt-get install corectrl`
 ### install Gnome shell system monitor extension
 https://extensions.gnome.org/extension/120/system-monitor/  
+
+### PulseAudio Sample rate 
+'pulseaudio -k' kill pulseaudio  
+'/etc/pulse/daemon.conf'  
+'pulseaudio --restart'  
   
   
 ## Android links
