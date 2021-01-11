@@ -27,7 +27,12 @@ https://extensions.gnome.org/extension/120/system-monitor/
   
 ### Git Editor Change
 `git config --global core.editor "vim"`  
-  
+
+### DDC/CI control monitor  
+`sudo apt-get install ddcutil`  
+`sudo ddcutil getvcp 10 --display N`  
+`sudo ddcutil setvcp 10 $brightness --display N`  
+
 ## Android links
 Google Android  
 https://source.android.com/
