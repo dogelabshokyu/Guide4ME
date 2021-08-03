@@ -33,6 +33,10 @@ https://extensions.gnome.org/extension/120/system-monitor/
 `sudo ddcutil getvcp 10 --display N`  
 `sudo ddcutil setvcp 10 $brightness --display N`  
 
+## VS Code tricks
+change Ctrl Tab function like chrome  
+https://stackoverflow.com/questions/38957302/is-there-a-quick-change-tabs-function-in-visual-studio-code
+
 ## Android links
 Google Android  
 https://source.android.com/
