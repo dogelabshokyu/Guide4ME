@@ -44,6 +44,9 @@ https://source.android.com/
 LineageOS  
 https://github.com/lineageOS
 
+Paranoid Android
+https://github.com/AOSPA
+
 PixelExperience  
 https://github.com/PixelExperience/
 
