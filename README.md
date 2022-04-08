@@ -3,7 +3,7 @@
 ### Change apt server
 `sudo sed -i 's/kr.archive.ubuntu.com/mirror.kakao.com/g' /etc/apt/sources.list`
 ### install Basic package
-`sudo apt-get install -y bc bison bison build-essential build-essential ccache clang curl curl curl flex fontconfig g++-multilib g++-multilib gcc-multilib gcc-multilib gir1.2-clutter-1.0 gir1.2-gtop-2.0 gir1.2-nm-1.0 git git git-core gnupg gnupg gperf gperf imagemagick lib32ncurses5-dev lib32ncurses5-dev lib32readline-dev lib32z1-dev lib32z1-dev libc6-dev-i386 libgl1-mesa-dev liblz4-tool liblz4-tool libncurses5 libncurses5-dev libsdl1.2-dev libssl-dev libx11-dev libxml2 libxml2-utils libxml2-utils libxml2-utils lzop m4 make openjdk-8-jdk pngcrush python rsync schedtool squashfs-tools unzip unzip wget x11proto-core-dev xsltproc xsltproc zip zip zlib1g-dev zlib1g-dev zlib1g-dev:i386 zsh`
+`sudo apt-get install -y bc bison build-essential ccache clang curl flex fontconfig g++-multilib gcc-multilib gir1.2-clutter-1.0 gir1.2-gtop-2.0 gir1.2-nm-1.0 git-core gnupg gperf imagemagick lib32ncurses5-dev lib32readline-dev lib32z1-dev libc6-dev-i386 libgl1-mesa-dev liblz4-tool libncurses5 libncurses5-dev libsdl1.2-dev libssl-dev libx11-dev libxml2 libxml2-utils libxml2-utils libxml2-utils lzop m4 make openjdk-8-jdk pngcrush python rsync schedtool squashfs-tools unzip unzip wget x11proto-core-dev xsltproc xsltproc zip zip zlib1g-dev zlib1g-dev zlib1g-dev:i386 zsh`
 ### install git-repo
 `mkdir ~/bin`  
 `PATH=~/bin:$PATH`  
